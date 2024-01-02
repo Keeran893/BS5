@@ -1,0 +1,22 @@
+#header{
+    background-color: lightcoral;
+}
+
+#menu{
+    background-color: aquamarine;
+    padding-top: 20px;
+}
+
+#menu li{
+    display: inline-block;
+}
+#subheading{
+    background-color: #c3ee82;
+}
+#sidemenu{
+    background-color: #ee82ee ;
+}
+
+#footer{
+    background-color: #a6bdeb;
+}
